@@ -1,4 +1,4 @@
-                   MONTHLY CLIMATOLOGICAL SUMMARY for OCT. 2026
+                   MONTHLY CLIMATOLOGICAL SUMMARY for SEP. 2026
 
 NAME: lajitas   CITY:    STATE:  
 ELEV:     0 m  LAT:   LONG: 
@@ -16,7 +16,7 @@ DAY TEMP  HIGH   TIME   LOW    TIME   DAYS  DAYS  RAIN  SPEED HIGH   TIME    DIR
  5
  6
  7
- 8  23.1  23.2    9:20  22.8    8:42   0.0   0.2   0.0   0.0   0.0     ---   ---
+ 8
  9
 10
 11
@@ -39,14 +39,13 @@ DAY TEMP  HIGH   TIME   LOW    TIME   DAYS  DAYS  RAIN  SPEED HIGH   TIME    DIR
 28
 29
 30
-31
 -------------------------------------------------------------------------------------
-    23.1  23.2     8    22.8     8     0.0   0.2   0.0   0.0   0.0     ---   ---
+     ---   ---     ---  32767.0     0     0.0   0.0   0.0   ---   ---     ---   ---
 
 Max >=  32.0:  0
 Max <=   0.0:  0
 Min <=   0.0:  0
 Min <= -18.0:  0
-Max Rain: 0.00 ON 01/10/26
+Max Rain: 0.00 ON 01/09/26
 Days of Rain: 0 (> .2 mm) 0 (> 2 mm) 0 (> 20 mm)
 Heat Base:  18.3  Cool Base:  18.3  Method: Integration
