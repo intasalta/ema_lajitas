@@ -1,4 +1,4 @@
-[mi‚ 28/10/2026  4:01:59,55] Inicio de ejecucion 
+[mi‚ 28/10/2026  4:16:59,52] Inicio de ejecucion 
 
 	                   7	C:\WeatherLink\lajitas\Images\Profile1\
 	*Directorio EXTRA      -1	C:\WeatherLink\lajitas\web\.git\
@@ -147,46 +147,18 @@
 	  *Archivo EXTRA		  267556	2026-07.wlk
 	  *Archivo EXTRA		  267556	2026-08.wlk
 	  *Archivo EXTRA		   71844	2026-09.wlk
-	  *Archivo EXTRA		  234556	2026-10.wlk
-	  *Archivo EXTRA		   15993	downld02.csv
-	  *Archivo EXTRA		   19863	downld02.xlsx
-	  *Archivo EXTRA		   98174	downld08.csv
-	  *Archivo EXTRA		   93088	downld08.xlsx
+	  *Archivo EXTRA		  234644	2026-10.wlk
+	  *Archivo EXTRA		   16133	downld02.csv
+	  *Archivo EXTRA		   19987	downld02.xlsx
+	  *Archivo EXTRA		   98314	downld08.csv
+	  *Archivo EXTRA		   93209	downld08.xlsx
 	  *Archivo EXTRA		      51	git_error.log
 	  *Archivo EXTRA		   41277	logo_inta.png
 	  *Archivo EXTRA		   54470	MECON-Agricultura-BLANCO.png
 	  *Archivo EXTRA		    3798	parse_data.py
 	  *Archivo EXTRA		   68867	resumen.html
 	  *Archivo EXTRA		   30152	tiempo_hoy.html
-	  M s reciente		   23807	downld02.txt100%  
-	  M s reciente		  143039	downld08.txt100%  
-	  M s reciente		   73633	index.html100%  
-	  M s reciente		    3203	NOAAMO.TXT100%  
-	  M s reciente		    1717	NOAAPRMO.TXT100%  
-	  M s reciente		    3214	NOAAPRYR.TXT100%  
-	  M s reciente		    2936	NOAAYR.TXT100%  
 
 	                 144	C:\WeatherLink\lajitas\
 	  M s reciente		  121388	2013-12.wlk100%  
-	  M s reciente		  267556	2025-01.wlk100%  
-	  M s reciente		  241684	2025-02.wlk100%  
-	  M s reciente		  267556	2025-03.wlk100%  
-	  M s reciente		  258844	2025-04.wlk100%  
-	  M s reciente		  267556	2025-05.wlk100%  
-	  M s reciente		  258932	2025-06.wlk100%  
-	  M s reciente		  267556	2025-07.wlk100%  
-	  M s reciente		  267556	2025-08.wlk100%  
-	  M s reciente		    4436	2025-09.wlk100%  
-	  M s reciente		  267556	2025-10.wlk100%  
-	  M s reciente		  221004	2025-11.wlk100%  
-	  M s reciente		  254180	2025-12.wlk100%  
-	  M s reciente		  228924	2026-01.wlk100%  
-	  M s reciente		  241684	2026-02.wlk100%  
-	  M s reciente		  267556	2026-03.wlk100%  
-	  M s reciente		  258932	2026-04.wlk100%  
-	  M s reciente		  267556	2026-05.wlk100%  
-	  M s reciente		  258932	2026-06.wlk100%  
-	  M s reciente		  267556	2026-07.wlk100%  
-	  M s reciente		  267556	2026-08.wlk100%  
-	  M s reciente		   71844	2026-09.wlk100%  
-	  M s reciente		  234644	2026-10.wlk100%  
+	  M s reciente		  234732	2026-10.wlk100%  
