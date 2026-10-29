@@ -1,4 +1,4 @@
-[jue 29/10/2026 13:01:59,54] Inicio de ejecucion 
+[jue 29/10/2026 13:16:59,62] Inicio de ejecucion 
 
 	                   7	C:\WeatherLink\lajitas\Images\Profile1\
 	*Directorio EXTRA      -1	C:\WeatherLink\lajitas\web\.git\
@@ -147,20 +147,20 @@
 	  *Archivo EXTRA		  267556	2026-07.wlk
 	  *Archivo EXTRA		  267556	2026-08.wlk
 	  *Archivo EXTRA		   71844	2026-09.wlk
-	  *Archivo EXTRA		  246348	2026-10.wlk
-	  *Archivo EXTRA		   21064	downld02.csv
-	  *Archivo EXTRA		   24579	downld02.xlsx
-	  *Archivo EXTRA		  103273	downld08.csv
-	  *Archivo EXTRA		   97501	downld08.xlsx
+	  *Archivo EXTRA		  246436	2026-10.wlk
+	  *Archivo EXTRA		   21208	downld02.csv
+	  *Archivo EXTRA		   24704	downld02.xlsx
+	  *Archivo EXTRA		  103417	downld08.csv
+	  *Archivo EXTRA		   97620	downld08.xlsx
 	  *Archivo EXTRA		      51	git_error.log
 	  *Archivo EXTRA		   41277	logo_inta.png
 	  *Archivo EXTRA		   54470	MECON-Agricultura-BLANCO.png
 	  *Archivo EXTRA		    3798	parse_data.py
 	  *Archivo EXTRA		   68867	resumen.html
 	  *Archivo EXTRA		   30152	tiempo_hoy.html
-	  M s reciente		   31259	downld02.txt100%  
-	  M s reciente		  150491	downld08.txt100%  
-	  M s reciente		   73639	index.html100%  
+	  M s reciente		   31466	downld02.txt100%  
+	  M s reciente		  150698	downld08.txt100%  
+	  M s reciente		   73635	index.html100%  
 	  M s reciente		    3281	NOAAMO.TXT100%  
 	  M s reciente		    1717	NOAAPRMO.TXT100%  
 	  M s reciente		    3214	NOAAPRYR.TXT100%  
@@ -189,4 +189,4 @@
 	  M s reciente		  267556	2026-07.wlk100%  
 	  M s reciente		  267556	2026-08.wlk100%  
 	  M s reciente		   71844	2026-09.wlk100%  
-	  M s reciente		  246436	2026-10.wlk100%  
+	  M s reciente		  246524	2026-10.wlk100%  
