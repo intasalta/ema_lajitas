@@ -1,4 +1,4 @@
-[s b 14/11/2026  6:31:59,71] Inicio de ejecucion 
+[s b 14/11/2026  6:46:59,62] Inicio de ejecucion 
 
 	                   7	C:\WeatherLink\lajitas\Images\Profile1\
 	*Directorio EXTRA      -1	C:\WeatherLink\lajitas\web\.git\
@@ -148,7 +148,7 @@
 	  *Archivo EXTRA		  267556	2026-08.wlk
 	  *Archivo EXTRA		   71844	2026-09.wlk
 	  *Archivo EXTRA		  267556	2026-10.wlk
-	  *Archivo EXTRA		  114612	2026-11.wlk
+	  *Archivo EXTRA		  114788	2026-11.wlk
 	  *Archivo EXTRA		    7254	2026_10.pdf
 	  *Archivo EXTRA		   17369	downld02.csv
 	  *Archivo EXTRA		   21732	downld02.xlsx
@@ -162,8 +162,8 @@
 	  *Archivo EXTRA		    3798	parse_data.py
 	  *Archivo EXTRA		   82812	resumen.html
 	  *Archivo EXTRA		   30152	tiempo_hoy.html
-	  M s reciente		   25877	downld02.txt100%  
-	  M s reciente		  145109	downld08.txt100%  
+	  M s reciente		   26084	downld02.txt100%  
+	  M s reciente		  145316	downld08.txt100%  
 	  M s reciente		   73635	index.html100%  
 	  M s reciente		    2106	NOAAMO.TXT100%  
 	  M s reciente		    3437	NOAAPRMO.TXT100%  
@@ -194,4 +194,4 @@
 	  M s reciente		  267556	2026-08.wlk100%  
 	  M s reciente		   71844	2026-09.wlk100%  
 	  M s reciente		  267556	2026-10.wlk100%  
-	  M s reciente		  114788	2026-11.wlk100%  
+	  M s reciente		  114876	2026-11.wlk100%  
