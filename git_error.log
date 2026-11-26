@@ -1,4 +1,4 @@
-[jue 26/11/2026 18:01:59,82] Inicio de ejecucion 
+[jue 26/11/2026 18:16:59,68] Inicio de ejecucion 
 
 	                   7	C:\WeatherLink\lajitas\Images\Profile1\
 	*Directorio EXTRA      -1	C:\WeatherLink\lajitas\web\.git\
@@ -148,12 +148,12 @@
 	  *Archivo EXTRA		  267556	2026-08.wlk
 	  *Archivo EXTRA		   71844	2026-09.wlk
 	  *Archivo EXTRA		  267556	2026-10.wlk
-	  *Archivo EXTRA		  222236	2026-11.wlk
+	  *Archivo EXTRA		  222324	2026-11.wlk
 	  *Archivo EXTRA		    7254	2026_10.pdf
-	  *Archivo EXTRA		   23987	downld02.csv
-	  *Archivo EXTRA		   26987	downld02.xlsx
-	  *Archivo EXTRA		  106264	downld08.csv
-	  *Archivo EXTRA		   99976	downld08.xlsx
+	  *Archivo EXTRA		   24127	downld02.csv
+	  *Archivo EXTRA		   27109	downld02.xlsx
+	  *Archivo EXTRA		  106404	downld08.csv
+	  *Archivo EXTRA		  100096	downld08.xlsx
 	  *Archivo EXTRA		   17447	generar_pdf_noaa.py
 	  *Archivo EXTRA		      51	git_error.log
 	  *Archivo EXTRA		     280	informes.json
@@ -162,8 +162,8 @@
 	  *Archivo EXTRA		    3798	parse_data.py
 	  *Archivo EXTRA		   82812	resumen.html
 	  *Archivo EXTRA		   30152	tiempo_hoy.html
-	  M s reciente		   35399	downld02.txt100%  
-	  M s reciente		  154631	downld08.txt100%  
+	  M s reciente		   35606	downld02.txt100%  
+	  M s reciente		  154838	downld08.txt100%  
 	  M s reciente		   73633	index.html100%  
 	  M s reciente		    3042	NOAAMO.TXT100%  
 	  M s reciente		    3437	NOAAPRMO.TXT100%  
@@ -194,4 +194,4 @@
 	  M s reciente		  267556	2026-08.wlk100%  
 	  M s reciente		   71844	2026-09.wlk100%  
 	  M s reciente		  267556	2026-10.wlk100%  
-	  M s reciente		  222324	2026-11.wlk100%  
+	  M s reciente		  222412	2026-11.wlk100%  
